@@ -1,0 +1,10 @@
+
+/* Young */
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+/* Outfit */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
